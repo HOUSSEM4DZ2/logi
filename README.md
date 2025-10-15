@@ -1,16 +1,10 @@
 # Zavatte Test - Progetto di Valutazione
 
-Una piattaforma di test interattiva per valutare abilità logico-matematiche, pensiero computazionale e motivazione personale.
-
 ## 🚀 Caratteristiche
 
 - **Test Logico-Matematici**: 10 domande per valutare le capacità logiche e matematiche
 - **Test di Pensiero Computazionale**: 10 domande sulla cultura informatica e il pensiero algoritmico
 - **Colloquio Motivazionale**: Valutazione testuale della motivazione personale
-- **Randomizzazione**: Domande e opzioni mescolate casualmente per ogni sessione
-- **Interfaccia Moderna**: Design responsive con Tailwind CSS
-- **Feedback Dettagliato**: Risultati completi con risposte corrette e sbagliate
-- **Nessun Server Richiesto**: Funziona aprendo semplicemente il file HTML
 
 ## 🎮 Utilizzo
 
@@ -62,31 +56,6 @@ I criteri di valutazione sono definiti nella proprietà `result` di ogni test:
 - **Test con punteggio**: Definisci range di punteggi e relativi feedback
 - **Analisi testuale**: Definisci parole chiave e regole di analisi
 
-## 📱 Compatibilità Browser
 
-L'applicazione funziona su tutti i browser moderni:
-- ✅ Chrome/Edge (ultima versione)
-- ✅ Firefox (ultima versione)
-- ✅ Safari (ultima versione)
-- ✅ Opera (ultima versione)
-
-## 💡 Vantaggi di Questa Versione
-
-- ✅ **Zero dipendenze** da installare
-- ✅ **Nessun server** necessario
-- ✅ **Nessun build process**
-- ✅ **Funziona offline** (dopo il primo caricamento)
-- ✅ **Facile da distribuire** (basta copiare i 3 file)
-- ✅ **Facile da modificare** (solo JavaScript vanilla)
-
-## 📄 Licenza
-
-Questo progetto è distribuito sotto licenza MIT.
-
-## 👥 Contributi
-
-I contributi sono benvenuti! Sentiti libero di aprire issue o pull request.
-
----
 
 Buon testing! 🎉
