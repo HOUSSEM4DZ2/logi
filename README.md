@@ -14,9 +14,9 @@ Una piattaforma di test interattiva per valutare abilità logico-matematiche, pe
 
 ## 🎮 Utilizzo
 
-**È semplicissimo!** Basta aprire il file `simple-app.html` nel tuo browser. Non serve installare nulla!
+**È semplicissimo!** Basta aprire il file `index.html` nel tuo browser. Non serve installare nulla!
 
-1. Apri `simple-app.html` in qualsiasi browser moderno
+1. Apri `index.html` in qualsiasi browser moderno
 2. Scegli un test dalla home page
 3. Rispondi alle domande
 4. Visualizza i risultati dettagliati
@@ -25,7 +25,7 @@ Una piattaforma di test interattiva per valutare abilità logico-matematiche, pe
 
 ```
 windsurf-project-2/
-├── simple-app.html          # File principale - APRI QUESTO!
+├── index.html          # File principale - APRI QUESTO!
 ├── app-data.js              # Dati dei test e domande
 ├── app-logic.js             # Logica dell'applicazione
 ├── README.md                # Questo file
